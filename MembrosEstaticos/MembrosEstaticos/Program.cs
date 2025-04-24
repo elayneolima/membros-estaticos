@@ -1,7 +1,9 @@
-﻿using System.Globalization; 
+﻿
+using System.Globalization;
 
-
-namespace MembrosEstaticos
+#region exemplo 1
+/* 
+ namespace MembrosEstaticos
 {
     class Program
 
@@ -26,6 +28,38 @@ namespace MembrosEstaticos
     }
 }
 
+ */
+#endregion
+
+
+#region exemplo 2
+
+namespace MembrosEstaticos
+{
+    class Program
+
+    {
+       
+        static void Main(string[] Args)
+        {
+
+            Console.WriteLine("entre com o vaor do raio");
+            double raio = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            double circ = Calculadora.Circunferencia(raio);
+
+            Console.WriteLine("Circunfrência: " + circ.ToString("f2", CultureInfo.InvariantCulture));
+
+        }
+
+     
+    }
+}
+
+
+
+
+#endregion
 
 
 

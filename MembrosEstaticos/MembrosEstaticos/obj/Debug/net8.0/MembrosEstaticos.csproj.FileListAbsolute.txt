@@ -12,3 +12,4 @@ C:\Temp Udemy\Membros Estáticos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net
 C:\Temp Udemy\Membros Estáticos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.pdb
 C:\Temp Udemy\Membros Estáticos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.genruntimeconfig.cache
 C:\Temp Udemy\Membros Estáticos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\ref\MembrosEstaticos.dll
+C:\Temp Udemy\Membros Estáticos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.sourcelink.json
